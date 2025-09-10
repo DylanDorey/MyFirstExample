@@ -19,6 +19,7 @@ int main()
     output = x - y;
     std::cout <<x << " - " << y << " = " << output;
 
+    
     std::cout << "Multiplication: " << x * y << std::endl;
     std::cout << "Division: " << x / y << std::endl;
     std::cout << "Remainder: " << x % y << std::endl;
